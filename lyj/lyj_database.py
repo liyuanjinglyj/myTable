@@ -53,7 +53,7 @@ webPage = {
 header = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
     'Cookie': 'HWWAFSESID=224f482bd8dc17336d; HWWAFSESTIME=1572429260867; a3ps_2132_saltkey=nIy2wJ1sEJh0NDP369f40z66FcqymHRqA88qVUx0z14tUvV%2BR6Opg4WRCpbpf0%2FH7O07fKeLYY27LF4DhBhzMuMoVhcnRvwrMWiwfzMTV%2BjGXS551jkTm%2FDm9aczV11JYXV0aGtleQ%3D%3D; a3ps_2132_lastvisit=1572425662; a3ps_2132_lastact=1572429276%09portal.php%09ajax; a3ps_2132_currentHwLoginUrl=http%3A%2F%2Fcn.club.vmall.com%2F; Hm_lvt_ac495a6d816d7387c803953f3a2637d0=1572429261,1572429275; Hm_lpvt_ac495a6d816d7387c803953f3a2637d0=1572429275; _gscu_1109330234=72429261ks5mo514; _gscs_1109330234=72429261ef0c8e14|pv:2; _gscbrs_1109330234=1; _dmpa_id=32237a36d9ed0952c4043991200011572429264120.1572429262.0.1572429262..; _dmpa_ref=%5B%22%22%2C%22%22%2C1572429262%2C%22https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DkVYENlN5_cgvtmXsG5EZFSm7HZJsQPaJlXAEOK-0MZqhD8DuX0tB_1t_joDcc0cv%26wd%3D%26eqid%3Df29e415f0008b128000000065db95dcb%22%5D; _dmpa_ses_time=1572431062423; _dmpa_ses=b7cbe3c671852788aec7a0621ffb5af729b6ed2c; HuaweiID_CAS_ISCASLOGIN=true; CASLOGINSITE=1; LOGINACCSITE=1; a3ps_2132_auth=zj8nT59i9QWbXp1fg5KhHnbeEvbpco5JeqKgD6RU8z%2Foy7Rcx9LfaVIhG8OrewrIFqkjPc2XmNzmy529dJ6whPqvn2%2Bn6ppq22Vsc1Rk1Lr%2B5aPJN%2FdlGrSeyGih3Ak0kSFB8rNyjU76YX9YuQxM5stNYar9%2FU6rs9F1Y3uS5PfEO5owFvmCkZC0If4lmyU9dffSbFN1htyACzBKDLtnpJ8jIK9OKRCywXjUwSKOaVRhdXRoY29kZQ%3D%3D; a3ps_2132_sid=u_89132582; a3ps_2132_checkpm=1; udmp_cm_sign_1109330234=1'
-}
+}#cookie值记得更换
 db = MySQLdb.connect(host='106.54.212.47',
                      port=3306,
                      user='liyuanjinglyj',

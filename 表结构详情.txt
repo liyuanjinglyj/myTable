@@ -1,0 +1,5 @@
+sqlite3
+create table yxlr (id integer primary key autoincrement,s_date VARCHAR(100) NOT NULL ,s_nameId VARCHAR(50) NOT NULL,s_title VARCHAR(255) NOT NULL,s_url VARCHAR(255) NOT NULL,s_count integer NOT NULL,s_comment integer NOT NULL,s_gaizhang VARCHAR(20) NOT NULL,s_device VARCHAR(20) NOT NULL)engine=InnoDB DEFAULT CHARSET=utf8;
+
+mysql
+create table yxlr (id integer primary key Auto_increment,s_date VARCHAR(100) NOT NULL ,s_nameId VARCHAR(50) NOT NULL,s_title VARCHAR(255) NOT NULL,s_url VARCHAR(255) NOT NULL,s_count integer NOT NULL,s_comment integer NOT NULL,s_gaizhang VARCHAR(20) NOT NULL,s_device VARCHAR(20) NOT NULL)engine=InnoDB DEFAULT CHARSET=utf8;

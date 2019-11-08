@@ -1,0 +1,2 @@
+表1：detail_infor
+id,d_year,d_month,d_day,d_name,d_title,d_link,d_read,d_comment,d_type

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>742</width>
+    <height>399</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>图标走势图</string>
+  </property>
+  <widget class="QGraphicsView" name="graphicsView">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>140</y>
+     <width>701</width>
+     <height>241</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>30</y>
+     <width>61</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>用户昵称：</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>30</y>
+     <width>291</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>云月静</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>欢乐的小机友</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>鹏飞小哥</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>云谷择城</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>彧幃</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>小三爷说数码</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>90</y>
+     <width>54</width>
+     <height>12</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>图标详情：</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox_2">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>80</y>
+     <width>291</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>每月发帖量走势图</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>每月总浏览量走势图</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>每月总评论量走势图</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>每月单帖最高浏览量走势图</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>当前月发帖时间走势图</string>
+    </property>
+   </item>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

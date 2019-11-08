@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="pic">
+        <file>images/delete.png</file>
+        <file>images/deleteOneRow.png</file>
+        <file>images/export.png</file>
+        <file>images/getInfo.png</file>
+        <file>images/import.png</file>
+        <file>images/input.png</file>
+        <file>images/title.ico</file>
+        <file>images/find.ico</file>
+        <file>images/firstPage.ico</file>
+        <file>images/lastPage.ico</file>
+        <file>images/pie.ico</file>
+        <file>images/plot.ico</file>
+    </qresource>
+</RCC>
